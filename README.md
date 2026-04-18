@@ -2,7 +2,7 @@
 
 Este repositorio contiene mis prácticas de automatización de pruebas como QA Engineer.
 
-## 📁 Proyectos incluidos
+## Proyectos incluidos
 
 ### 🔹 Playwright UI Tests
 Automatización de pruebas UI con Playwright sobre la tienda PetStore.
@@ -23,7 +23,7 @@ Automatización de pruebas API usando Karate Framework.
 ### 🔹 Installation Practice
 Configuración inicial de herramientas de testing.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Playwright
 - JavaScript / Node.js
@@ -31,10 +31,10 @@ Configuración inicial de herramientas de testing.
 - Maven
 - Git & GitHub
 
-## 🎯 Objetivo
+## Objetivo
 
 Este proyecto demuestra habilidades básicas de QA Automation tanto en UI como en API testing.
 
 ---
 
-👩‍💻 Author: QA Automation Learner *Naila Baez*
+ Author: QA Automation Learner *Naila Baez*
